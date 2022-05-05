@@ -6,7 +6,12 @@ public class MyLord {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Lord Jesus");
+		
 						
+	}
+	
+	public void Moses() {
+		System.out.println("Moses");
 	}
 
 }
